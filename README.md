@@ -1,6 +1,6 @@
 # Buzz Authenticator
 
-For installing the package through NPM, check [here]{https://www.npmjs.com/package/buzz_authenticator}
+For installing the package through NPM, check [here](https://www.npmjs.com/package/buzz_authenticator)
 
 ## Project explanation
 
